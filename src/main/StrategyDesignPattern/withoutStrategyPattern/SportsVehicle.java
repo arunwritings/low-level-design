@@ -1,4 +1,4 @@
-package strategyDesignPattern.withoutStrategyPattern;
+package StrategyDesignPattern.withoutStrategyPattern;
 
 public class SportsVehicle extends Vehicle{
 

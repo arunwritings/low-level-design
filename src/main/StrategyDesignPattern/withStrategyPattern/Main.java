@@ -1,4 +1,4 @@
-package strategyDesignPattern.withStrategyPattern;
+package StrategyDesignPattern.withStrategyPattern;
 
 public class Main {
 

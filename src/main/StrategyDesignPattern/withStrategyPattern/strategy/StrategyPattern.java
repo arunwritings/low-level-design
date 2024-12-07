@@ -1,4 +1,4 @@
-package strategyDesignPattern.withStrategyPattern.strategy;
+package StrategyDesignPattern.withStrategyPattern.strategy;
 
 public interface StrategyPattern {
 

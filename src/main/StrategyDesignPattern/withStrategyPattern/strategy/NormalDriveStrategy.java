@@ -1,6 +1,4 @@
-package strategyDesignPattern.withStrategyPattern.strategy;
-
-import strategyDesignPattern.withStrategyPattern.strategy.StrategyPattern;
+package StrategyDesignPattern.withStrategyPattern.strategy;
 
 public class NormalDriveStrategy implements StrategyPattern {
 
